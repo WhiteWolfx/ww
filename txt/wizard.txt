@@ -1,6 +1,0 @@
-
-name="WHITEWOLF x1"
-url="https://www.dropbox.com/s/5y1spgaag7pbl3s/WHITEWOLF.zip?dl=1"
-img="https://www.dropbox.com/s/oxbnz4j8347uds8/icon.png?dl=1"
-fanart="https://www.dropbox.com/s/gjrb26kg7xwaxz9/fanart.jpg?dl=1"
-description="WHITEWOLF BUILD x1 FOR KODI 17"
